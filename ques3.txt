@@ -1,0 +1,4 @@
+A. A command to find command history(can be done by using ctrl+r)
+B. The command ls –a lists all the files including the hidden files.
+C. 5/10
+D. Yes,Apache
